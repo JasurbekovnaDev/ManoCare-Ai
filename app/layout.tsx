@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'ManoCare Ai — Klinikalar uchun perinatal monitoring',
-  description: 'Klinikalar va shifoxonalar uchun perinatal xavf monitoringi va bemorlar boshqaruvi.',
+  title: 'ManoCare AI — Perinatal Xavf Monitoring',
+  description: 'Xorazm viloyatida ona va bola salomatligini aqlli kuzatish platformasi.',
   generator: 'v0.app',
   icons: {
     icon: [
